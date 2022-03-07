@@ -1,0 +1,4 @@
+1 attach database from /db to your server;
+2 setup the "EmployeesConnection" in appsettings.json;
+3 "dotnet run" in EmployeesAPI folder to start the backend
+4 go to https://localhost:7206/swagger to test api endpoints
